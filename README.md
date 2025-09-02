@@ -61,6 +61,13 @@
 | Build your first Agentic AI app with Strands Agents & MCP | AWS Show and Tell | [YouTube](https://www.youtube.com/watch?v=aijS9fWB854) |
 | The Future of AI is Multi-Agent | AWS Show and Tell | [YouTube](https://www.youtube.com/watch?v=TjTgHA5DjDM) |
 | Integrating Model Context Protocol (MCP) Tools with Strands Agents | How-to Guide | [YouTube](https://www.youtube.com/watch?v=bHSbjCZZFjE) |
+| Strands Agents Framework Introduction | Ram Vegiraju | [YouTube](https://www.youtube.com/watch?v=nS1arlGhKOI) |
+| Exploring Multi-Agent Architectures: Supervisor, Graph, Tools & More | Ram Vegiraju | [YouTube](https://www.youtube.com/watch?v=gK9i6p2euVk) |
+| Building Multi-Agent Systems: Agents as Tools with Strands SDK | Ram Vegiraju | [YouTube](https://www.youtube.com/watch?v=vqdXVz5lxbk) |
+| Multi-Agent Sequential Graph Workflows Using Strands SDK | Ram Vegiraju | [YouTube](https://www.youtube.com/watch?v=hQnnNbniYPM) |
+| How to Add Conditional Flow in Multi-Agent Graphs with Strands SDK | Ram Vegiraju | [YouTube](https://www.youtube.com/watch?v=olmcv4uLTOM) |
+| How to Deploy Agents Easily with Bedrock AgentCore Runtime | Ram Vegiraju | [YouTube](https://www.youtube.com/watch?v=3sNFp-iv-I4) |
+| Autonomous Agent Collaboration with Swarms Using the Strands Python SDK | Ram Vegiraju | [YouTube](https://www.youtube.com/watch?v=IJtnss_TG1o) |
 
 ---
 
