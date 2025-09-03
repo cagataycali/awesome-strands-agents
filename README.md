@@ -11,6 +11,7 @@
 | [Coinbase AgentKit](https://pypi.org/project/coinbase-agentkit-strands-agents/) | Enables agentic workflows to interact with onchain actions via Coinbase SDK | [coinbase-agentkit-strands-agents](https://pypi.org/project/coinbase-agentkit-strands-agents/) | Integration |
 | [Strands Live](https://github.com/mkmeral/strands-live) | Live speech-to-speech agent | [mkmeral/strands-live](https://github.com/mkmeral/strands-live) | Voice/Audio |
 | [Strands Agents MCP](https://github.com/imgaray/strands-agents-mcp) | MCP server to execute agents through Model Context Protocol | [imgaray/strands-agents-mcp](https://github.com/imgaray/strands-agents-mcp) | MCP/Protocol |
+[ [Nx Plugin for AWS - Strands Agent Generator](https://awslabs.github.io/nx-plugin-for-aws/en/guides/py-strands-agent/) | The Nx Plugin for AWS helps you to quickly bootstrap and build AWS projects. The Strands Agent Generator sets up a Strands agent along with the CDK or Terraform infrastructure to deploy it to Bedrock AgentCore Runtime. | [awslabs/nx-plugin-for-aws](https://github.com/awslabs/nx-plugin-for-aws) | Developer Tools
 
 ## Blog Posts & Articles
 
