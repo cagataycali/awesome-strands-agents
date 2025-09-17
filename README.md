@@ -84,4 +84,34 @@
 
 ---
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=strands-agents/sdk-python&type=Date)](https://www.star-history.com/#strands-agents/sdk-python&Date)
+
+
+## Repository Metrics
+
+![GitHub](https://img.shields.io/github/license/strands-agents/sdk-python)
+![GitHub contributors](https://img.shields.io/github/contributors/strands-agents/sdk-python)
+![GitHub forks](https://img.shields.io/github/forks/strands-agents/sdk-python)
+![GitHub watchers](https://img.shields.io/github/watchers/strands-agents/sdk-python)
+![GitHub last commit](https://img.shields.io/github/last-commit/strands-agents/sdk-python)
+![GitHub release](https://img.shields.io/github/v/release/strands-agents/sdk-python)
+
+## PyPI Download Stats
+
+[![Downloads](https://static.pepy.tech/badge/strands-agents)](https://pepy.tech/project/strands-agents)
+[![Downloads](https://static.pepy.tech/badge/strands-agents/month)](https://pepy.tech/project/strands-agents)
+[![Downloads](https://static.pepy.tech/badge/strands-agents/week)](https://pepy.tech/project/strands-agents)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=strands-agents/sdk-python)](https://github.com/strands-agents/sdk-python/graphs/contributors)
+
+## Repository Activity
+
+[![Commit Activity](https://img.shields.io/github/commit-activity/m/strands-agents/sdk-python)](https://github.com/strands-agents/sdk-python/graphs/commit-activity)
+[![Issue Resolution](https://img.shields.io/github/issues-closed-raw/strands-agents/sdk-python)](https://github.com/strands-agents/sdk-python/issues?q=is%3Aissue+is%3Aclosed)
+
+
 **License:** CC0 1.0 Universal
