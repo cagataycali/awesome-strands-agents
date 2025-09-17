@@ -8,6 +8,7 @@
 |---------|-------------|------------|----------|
 | [BitChat](https://github.com/cagataycali/strands-bitchat/) | P2P encrypted mesh communication over Bluetooth for agent-to-agent networking | [cagataycali/strands-bitchat](https://github.com/cagataycali/strands-bitchat/) | Communication |
 | [Strands Nvidia NIM](https://github.com/thiago4go/strands-nvidia-nim) | Nvidia NIM provider that fixes message formatting compatibility with Strands Agents | [thiago4go/strands-nvidia-nim](https://github.com/thiago4go/strands-nvidia-nim) | Model Providers |
+| [Strands CLOVA](https://github.com/aidendef/strands-clova) | CLOVA Studio model provider with native Korean language support and bilingual capabilities | [aidendef/strands-clova](https://github.com/aidendef/strands-clova) | Model Providers |
 | [Coinbase AgentKit](https://pypi.org/project/coinbase-agentkit-strands-agents/) | Enables agentic workflows to interact with onchain actions via Coinbase SDK | [coinbase-agentkit-strands-agents](https://pypi.org/project/coinbase-agentkit-strands-agents/) | Integration |
 | [Strands Live](https://github.com/mkmeral/strands-live) | Live speech-to-speech agent | [mkmeral/strands-live](https://github.com/mkmeral/strands-live) | Voice/Audio |
 | [Strands Agents MCP](https://github.com/imgaray/strands-agents-mcp) | MCP server to execute agents through Model Context Protocol | [imgaray/strands-agents-mcp](https://github.com/imgaray/strands-agents-mcp) | MCP/Protocol |
