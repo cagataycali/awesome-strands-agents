@@ -18,6 +18,7 @@
 
 | Title | Author | Link |
 |-------|--------|------|
+| Strands Agents and the Model-Driven Approach | Arron Bailiss | [AWS Open Source Blog](https://aws.amazon.com/blogs/opensource/strands-agents-and-the-model-driven-approach/) |
 | Introducing Strands Agents, an Open Source AI Agents SDK | Clare Liguori | [AWS Blog](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/) |
 | Strands Agents SDK: A technical deep dive into agent architectures and observability | Jin Tan Ruan | [AWS ML Blog](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/) |
 | Introducing Strands Agents 1.0: Production-Ready Multi-Agent Orchestration Made Simple | Ryan Coleman, Belle Guttman | [AWS Blog](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-1-0-production-ready-multi-agent-orchestration-made-simple/) |
