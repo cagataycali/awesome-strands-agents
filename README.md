@@ -14,6 +14,7 @@
 | [Strands Agents MCP](https://github.com/imgaray/strands-agents-mcp) | MCP server to execute agents through Model Context Protocol | [imgaray/strands-agents-mcp](https://github.com/imgaray/strands-agents-mcp) | MCP/Protocol |
 | [Nx Plugin for AWS - Strands Agent Generator](https://awslabs.github.io/nx-plugin-for-aws/en/guides/py-strands-agent/) | The Nx Plugin for AWS helps you to quickly bootstrap and build AWS projects. The Strands Agent Generator sets up a Strands agent along with the CDK or Terraform infrastructure to deploy it to Bedrock AgentCore Runtime. | [awslabs/nx-plugin-for-aws](https://github.com/awslabs/nx-plugin-for-aws) | Developer Tools |
 | [Open Studio for Strands Agent](https://github.com/xiehust/strands_studio_ui) | Visual drag-and-drop AI agent builder that builds complex multi-agent workflows without writing code, generates Python automatically from visual flows, supports custom tools & MCP servers, and provides real-time execution with streaming updates | [xiehust/strands_studio_ui](https://github.com/xiehust/strands_studio_ui) | Developer Tools |
+| [Strands Research Agent](https://github.com/cagataycali/strands-research-agent/tree/main/02-samples/14-research-agent) | Research agent sample for agent patterns including hot-reloading tools, multi-agent coordination, and persistent learning systems | [cagataycali/strands-research-agent](https://pypi.org/project/strands-research-agent/) | Research & Analytics |
 
 ## Blog Posts & Articles
 
