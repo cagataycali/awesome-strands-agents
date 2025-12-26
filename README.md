@@ -2,6 +2,28 @@
 
 > Curated list of community resources for [Strands Agents](https://strandsagents.com/) - build AI agents in a few lines of code.
 
+## 📦 Publishing Your Strands Project
+
+Want your project to be automatically discovered and listed on [strands.my](https://strands.my)?
+
+### For GitHub Repositories
+Add the `strands-agents` topic to your repository:
+- Go to your repo → About section → ⚙️ Settings
+- Add `strands-agents` to Topics
+- Your project will be discoverable in the ecosystem
+
+### For PyPI Packages
+Prefix your package name with `strands-`:
+- Example: `strands-your-tool-name`
+- Publish to PyPI with this naming convention
+- Your package will be automatically indexed on [strands.my](https://strands.my)
+
+**Benefits:**
+- 🔍 Automatic discovery by the community
+- 📊 Listed on [strands.my](https://strands.my) package explorer
+- 🌟 Increased visibility in the ecosystem
+- 🤝 Easy integration for other developers
+
 ## Community Projects
 
 | Project                                                                                                                | Description                                                                                                                                                                                                                                          | Repository                                                                                        | Category             |
