@@ -26,6 +26,7 @@ Add the `strands-agents` topic to your repository:
 Prefix your package name with `strands-`:
 - Example: `strands-your-tool-name`
 - Publish to PyPI with this naming convention
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 - Your package will be automatically indexed on [strands.my](https://strands.my)
 
 **Benefits:**
