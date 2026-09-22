@@ -203,6 +203,7 @@ Prefix your package name with `strands-`:
 | [Strands vLLM](https://pypi.org/project/strands-vllm/) | vLLM model provider for Strands Agents enabling high-throughput local LLM inference | [agents-community/strands-vllm](https://github.com/agents-community/strands-vllm) | Model Providers |
 | [Supabase Strands Session Manager](https://pypi.org/project/supabase-strands/) | Supabase-backed session manager for Strands Agents SDK | [siddharthkrish/strands-supabase-session-manager](https://github.com/siddharthkrish/strands-supabase-session-manager) | Integration |
 | [Valyu AgentCore (PyPI)](https://pypi.org/project/valyu-agentcore/) | Valyu search tools published on PyPI for AWS Bedrock AgentCore and Strands Agents | [valyu-network/valyu-agentcore](https://github.com/valyu-network/valyu-agentcore) | Tools & Integration |
+| [Society Relay](https://relay.sarthakagrawal.dev/) | Human-approved apartment maintenance planning with a Strands graph, consent-bound proposals, missed-visit recovery, and resident-verified closure | [sarthakagrawal927/society-relay](https://github.com/sarthakagrawal927/society-relay) | Community Operations |
 
 ## Blog Posts & Articles
 
