@@ -287,6 +287,7 @@ Prefix your package name with `strands-`:
 | Introducing Amazon Bedrock AgentCore: Securely deploy and operate AI agents at any scale        | Danilo Poccia                          | [AWS News Blog](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-agentcore-securely-deploy-and-operate-ai-agents-at-any-scale/)                   |
 | Introducing Amazon Bedrock AgentCore Gateway: Transforming enterprise AI agent tool development | Dhawalkumar Patel, et al.              | [AWS ML Blog](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-gateway-transforming-enterprise-ai-agent-tool-development/) |
 | Building Your Open Source Commercial Strategy with AWS                                          | Serge Shevchenko                       | [AWS Partner Blog](https://aws.amazon.com/blogs/apn/building-your-open-source-commercial-strategy-with-aws/)                                                 |
+| Replace an LLM with a decision model: 44x cheaper per task | Maxpertise | [Maxpertise](https://maxpertise.net/blog/replace-llm-with-decision-model-cost) |
 
 ## Videos & Tutorials
 
